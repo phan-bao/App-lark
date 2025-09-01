@@ -62,3 +62,9 @@ Join our community of developers creating universal apps.
 <p align="center">
   <img width="522" height="950" alt="image" src="https://github.com/user-attachments/assets/21fc062b-ad42-42d8-90e1-6fd6eb130048" />
 </p>
+
+<h3> This is the organization registration page </h3>
+
+<p align="center">
+  <img width="522" height="950" alt="image" src="https://github.com/user-attachments/assets/be1242f5-e281-435a-99a9-5bc4962ccceb" />
+</p>
