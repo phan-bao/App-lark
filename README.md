@@ -68,3 +68,24 @@ Join our community of developers creating universal apps.
 <p align="center">
   <img width="522" height="950" alt="image" src="https://github.com/user-attachments/assets/be1242f5-e281-435a-99a9-5bc4962ccceb" />
 </p>
+
+<h3> Home page when registered or have an account </h3>
+
+<p align="center">
+  <img width="522" height="950" alt="image" src="https://github.com/user-attachments/assets/8d371c7a-d143-4395-a23c-ba762f881480" />
+
+</p>
+
+<h3>The menu bar includes 5: Home page, Request page, Message page, Task page, Settings page. </h3>
+
+<h3 align="center">----------------------------- Request page -----------------------------</h3>
+
+<p align="center">
+  <img width="522" height="950" alt="image" src="https://github.com/user-attachments/assets/e6ccc8a3-e341-4d49-b042-a617f79f634d" />
+</p>
+
+<h3 align="center">----------------------------- Message page -----------------------------</h3>
+
+<p align="center">
+  <img width="522" height="950" alt="image" src="https://github.com/user-attachments/assets/1b40c87a-8333-4b03-a433-95b8aafdc89e" />
+</p>
