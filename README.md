@@ -51,7 +51,7 @@ Join our community of developers creating universal apps.
 
  ### Lark_App Interface
  -------------------Login screen---------------------------
- <img width="662" height="1310" alt="image" src="https://github.com/user-attachments/assets/e6f5f0de-1c64-4b85-9639-5d0a325a1b03" />
+ <img width="662" height="1000" alt="image" src="https://github.com/user-attachments/assets/e6f5f0de-1c64-4b85-9639-5d0a325a1b03" />
 
     
 
