@@ -55,6 +55,7 @@ Join our community of developers creating universal apps.
 
 <p align="center">
   <img width="522" height="950" alt="image" src="https://github.com/user-attachments/assets/e6f5f0de-1c64-4b85-9639-5d0a325a1b03" />
+   <img width="662" height="1310" alt="image" src="https://github.com/user-attachments/assets/21fc062b-ad42-42d8-90e1-6fd6eb130048" />
 </p>
     
 
