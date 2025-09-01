@@ -49,9 +49,12 @@ Join our community of developers creating universal apps.
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 
- ### Lark_App Interface
- -------------------Login screen---------------------------
- <img width="522" height="950" alt="image" src="https://github.com/user-attachments/assets/e6f5f0de-1c64-4b85-9639-5d0a325a1b03" />
+<h1 align="center">Lark_App Interface</h1>
 
+<h3 align="center">----------------------------- Login screen -----------------------------</h3>
+
+<p align="center">
+  <img width="522" height="950" alt="image" src="https://github.com/user-attachments/assets/e6f5f0de-1c64-4b85-9639-5d0a325a1b03" />
+</p>
     
 
