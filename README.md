@@ -90,3 +90,19 @@ Join our community of developers creating universal apps.
   <img width="522" height="950" alt="image" src="https://github.com/user-attachments/assets/3ebe7c45-65c1-434d-8df2-71bccc536beb" />
 
 </p>
+
+
+<h3 align="center">----------------------------- Task page -----------------------------</h3>
+
+<p align="center">
+  <img width="522" height="950" alt="image" src="https://github.com/user-attachments/assets/8df604f3-7f3d-4abc-ac0a-ad2bbacc7dbe" />
+</p>
+
+<h3 align="center">----------------------------- Setting page -----------------------------</h3>
+
+<p align="center">
+  <img width="522" height="950" alt="image" src="https://github.com/user-attachments/assets/88f50281-75fc-48dd-a2f2-e4098c6019f6" />
+
+</p>
+<h3 >There are many small pages and have very good functions.</h3>
+
