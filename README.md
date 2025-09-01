@@ -87,5 +87,6 @@ Join our community of developers creating universal apps.
 <h3 align="center">----------------------------- Message page -----------------------------</h3>
 
 <p align="center">
-  <img width="522" height="950" alt="image" src="https://github.com/user-attachments/assets/1b40c87a-8333-4b03-a433-95b8aafdc89e" />
+  <img width="522" height="950" alt="image" src="https://github.com/user-attachments/assets/3ebe7c45-65c1-434d-8df2-71bccc536beb" />
+
 </p>
